@@ -4,6 +4,8 @@
 
     <!-- hello lalita -->
     <!-- comment 2 after add and commit -->
+
+    <!-- comment 3 -->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
