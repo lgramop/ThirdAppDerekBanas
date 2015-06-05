@@ -3,6 +3,7 @@
     package="com.gramollc.lalita.thirdappderekbanas" >
 
     <!-- hello lalita -->
+    <!-- comment 2 after add and commit -->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
